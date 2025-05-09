@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Semih\\source\\repos\\EmailChatProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FBE3EE-905F-4532-8EAB-F248D8634840}|EmailChatProject\\EmailChatProject.csproj|c:\\users\\semih\\source\\repos\\emailchatproject\\emailchatproject\\views\\message\\sendbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8FBE3EE-905F-4532-8EAB-F248D8634840}|EmailChatProject\\EmailChatProject.csproj|solutionrelative:emailchatproject\\views\\message\\sendbox.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FBE3EE-905F-4532-8EAB-F248D8634840}|EmailChatProject\\EmailChatProject.csproj|c:\\users\\semih\\source\\repos\\emailchatproject\\emailchatproject\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FBE3EE-905F-4532-8EAB-F248D8634840}|EmailChatProject\\EmailChatProject.csproj|solutionrelative:emailchatproject\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FBE3EE-905F-4532-8EAB-F248D8634840}|EmailChatProject\\EmailChatProject.csproj|c:\\users\\semih\\source\\repos\\emailchatproject\\emailchatproject\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8FBE3EE-905F-4532-8EAB-F248D8634840}|EmailChatProject\\EmailChatProject.csproj|solutionrelative:emailchatproject\\views\\login\\userlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FBE3EE-905F-4532-8EAB-F248D8634840}|EmailChatProject\\EmailChatProject.csproj|c:\\users\\semih\\source\\repos\\emailchatproject\\emailchatproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FBE3EE-905F-4532-8EAB-F248D8634840}|EmailChatProject\\EmailChatProject.csproj|solutionrelative:emailchatproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FBE3EE-905F-4532-8EAB-F248D8634840}|EmailChatProject\\EmailChatProject.csproj|c:\\users\\semih\\source\\repos\\emailchatproject\\emailchatproject\\views\\message\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8FBE3EE-905F-4532-8EAB-F248D8634840}|EmailChatProject\\EmailChatProject.csproj|solutionrelative:emailchatproject\\views\\message\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FBE3EE-905F-4532-8EAB-F248D8634840}|EmailChatProject\\EmailChatProject.csproj|c:\\users\\semih\\source\\repos\\emailchatproject\\emailchatproject\\views\\register\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A8FBE3EE-905F-4532-8EAB-F248D8634840}|EmailChatProject\\EmailChatProject.csproj|solutionrelative:emailchatproject\\views\\register\\adduser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FBE3EE-905F-4532-8EAB-F248D8634840}|EmailChatProject\\EmailChatProject.csproj|c:\\users\\semih\\source\\repos\\emailchatproject\\emailchatproject\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FBE3EE-905F-4532-8EAB-F248D8634840}|EmailChatProject\\EmailChatProject.csproj|solutionrelative:emailchatproject\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendBox.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EmailChatProject\\EmailChatProject\\Views\\Message\\SendBox.cshtml",
+              "RelativeDocumentMoniker": "EmailChatProject\\Views\\Message\\SendBox.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EmailChatProject\\EmailChatProject\\Views\\Message\\SendBox.cshtml",
+              "RelativeToolTip": "EmailChatProject\\Views\\Message\\SendBox.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:25:25.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EmailChatProject\\EmailChatProject\\Views\\Message\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmailChatProject\\Views\\Message\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EmailChatProject\\EmailChatProject\\Views\\Message\\Index.cshtml",
+              "RelativeToolTip": "EmailChatProject\\Views\\Message\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:20:35.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EmailChatProject\\EmailChatProject\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "EmailChatProject\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EmailChatProject\\EmailChatProject\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "EmailChatProject\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:20:33.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EmailChatProject\\EmailChatProject\\Views\\Login\\UserLogin.cshtml",
+              "RelativeDocumentMoniker": "EmailChatProject\\Views\\Login\\UserLogin.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EmailChatProject\\EmailChatProject\\Views\\Login\\UserLogin.cshtml",
+              "RelativeToolTip": "EmailChatProject\\Views\\Login\\UserLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:20:21.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EmailChatProject\\EmailChatProject\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "EmailChatProject\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EmailChatProject\\EmailChatProject\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "EmailChatProject\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:20:19.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EmailChatProject\\EmailChatProject\\Views\\Register\\AddUser.cshtml",
+              "RelativeDocumentMoniker": "EmailChatProject\\Views\\Register\\AddUser.cshtml",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EmailChatProject\\EmailChatProject\\Views\\Register\\AddUser.cshtml",
+              "RelativeToolTip": "EmailChatProject\\Views\\Register\\AddUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-09T17:19:55.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\Semih\\source\\repos\\EmailChatProject\\EmailChatProject\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "EmailChatProject\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\Semih\\source\\repos\\EmailChatProject\\EmailChatProject\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "EmailChatProject\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T17:19:48.706Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
